@@ -1,0 +1,26 @@
+{
+  "name": "express-with-handlebars-view-engine",
+  "version": "1.0.0",
+  "description": "crud table built with express and handlebars view engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kojoYeboah53i/express-with-handlebars-view-engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kojoYeboah53i/express-with-handlebars-view-engine/issues"
+  },
+  "homepage": "https://github.com/kojoYeboah53i/express-with-handlebars-view-engine#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3",
+    "nodemon": "^2.0.12"
+  }
+}
